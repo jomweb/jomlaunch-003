@@ -6925,8 +6925,11 @@ button[type="submit"] .loading {
 /* ----------------------------------------------------------------------------
     Theme styles
 ---------------------------------------------------------------------------- */
-.bg1 {
+/* .bg1 {
   background-image: url("../img/backgrounds/header-d9c324bb9009c0582a3c9c2571a85d691ba65f04e3e28f941de902ee58d74a8b.jpg");
+} */
+.bg1 {
+  background-image: url("../img/backgrounds/jomweb002.jpg");
 }
 .bg2 {
   background-image: url("../img/backgrounds/header-d9c324bb9009c0582a3c9c2571a85d691ba65f04e3e28f941de902ee58d74a8b.jpg");
